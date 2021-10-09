@@ -1,0 +1,9 @@
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/bin/Debug/netcoreapp3.1/Supermarket.Model.deps.json
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/bin/Debug/netcoreapp3.1/Supermarket.Model.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/bin/Debug/netcoreapp3.1/Supermarket.Model.pdb
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/obj/Debug/netcoreapp3.1/Supermarket.Model.csproj.AssemblyReference.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/obj/Debug/netcoreapp3.1/Supermarket.Model.AssemblyInfoInputs.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/obj/Debug/netcoreapp3.1/Supermarket.Model.AssemblyInfo.cs
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/obj/Debug/netcoreapp3.1/Supermarket.Model.csproj.CoreCompileInputs.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/obj/Debug/netcoreapp3.1/Supermarket.Model.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/obj/Debug/netcoreapp3.1/Supermarket.Model.pdb

@@ -1,0 +1,15 @@
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/bin/Debug/netcoreapp3.1/Supermarket.Data.deps.json
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/bin/Debug/netcoreapp3.1/Supermarket.Data.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/bin/Debug/netcoreapp3.1/Supermarket.Data.pdb
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/bin/Debug/netcoreapp3.1/Supermarket.Model.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/bin/Debug/netcoreapp3.1/Supermarket.Model.pdb
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/Debug/netcoreapp3.1/Supermarket.Data.csproj.AssemblyReference.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/Debug/netcoreapp3.1/Supermarket.Data.AssemblyInfoInputs.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/Debug/netcoreapp3.1/Supermarket.Data.AssemblyInfo.cs
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/Debug/netcoreapp3.1/Supermarket.Data.csproj.CoreCompileInputs.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/Debug/netcoreapp3.1/Supermarket.Data.csproj.CopyComplete
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/Debug/netcoreapp3.1/Supermarket.Data.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/Debug/netcoreapp3.1/Supermarket.Data.pdb
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/bin/Debug/netcoreapp3.1/Supermarket.Data.runtimeconfig.json
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/bin/Debug/netcoreapp3.1/Supermarket.Data.runtimeconfig.dev.json
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/Debug/netcoreapp3.1/Supermarket.Data.genruntimeconfig.cache

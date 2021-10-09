@@ -1,0 +1,14 @@
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/bin/Debug/netcoreapp3.1/Supermarket.Services.deps.json
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/bin/Debug/netcoreapp3.1/Supermarket.Services.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/bin/Debug/netcoreapp3.1/Supermarket.Services.pdb
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/bin/Debug/netcoreapp3.1/Supermarket.Data.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/bin/Debug/netcoreapp3.1/Supermarket.Model.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/bin/Debug/netcoreapp3.1/Supermarket.Data.pdb
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/bin/Debug/netcoreapp3.1/Supermarket.Model.pdb
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/obj/Debug/netcoreapp3.1/Supermarket.Services.csproj.AssemblyReference.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/obj/Debug/netcoreapp3.1/Supermarket.Services.AssemblyInfoInputs.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/obj/Debug/netcoreapp3.1/Supermarket.Services.AssemblyInfo.cs
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/obj/Debug/netcoreapp3.1/Supermarket.Services.csproj.CoreCompileInputs.cache
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/obj/Debug/netcoreapp3.1/Supermarket.Services.csproj.CopyComplete
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/obj/Debug/netcoreapp3.1/Supermarket.Services.dll
+/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/obj/Debug/netcoreapp3.1/Supermarket.Services.pdb

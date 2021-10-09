@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/Supermarket.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/Supermarket.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/Supermarket.Data.csproj",
+        "projectName": "Supermarket.Data",
+        "projectPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/Supermarket.Data.csproj",
+        "packagesPath": "/Users/obinnaisiwekpeni/.nuget/packages/",
+        "outputPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/obinnaisiwekpeni/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/Supermarket.Model.csproj": {
+                "projectPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/Supermarket.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/Supermarket.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/Supermarket.Model.csproj",
+        "projectName": "Supermarket.Model",
+        "projectPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/Supermarket.Model.csproj",
+        "packagesPath": "/Users/obinnaisiwekpeni/.nuget/packages/",
+        "outputPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/obinnaisiwekpeni/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/Supermarket.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/Supermarket.Services.csproj",
+        "projectName": "Supermarket.Services",
+        "projectPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/Supermarket.Services.csproj",
+        "packagesPath": "/Users/obinnaisiwekpeni/.nuget/packages/",
+        "outputPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/obinnaisiwekpeni/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/Supermarket.Data.csproj": {
+                "projectPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Data/Supermarket.Data.csproj"
+              },
+              "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/Supermarket.Model.csproj": {
+                "projectPath": "/Users/obinnaisiwekpeni/Projects/Supermarket/Supermarket.Model/Supermarket.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
